@@ -36,7 +36,7 @@ This DeFi application allows users to stake their BRISE tokens for rewards in BU
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/bitrise-defi-ui.git
+git clone https://github.com/zeddari/bitrise-defi-ui.git
 cd bitrise-defi-ui
 ```
 
@@ -151,7 +151,7 @@ npm start
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 ## Acknowledgements
 
